@@ -1,9 +1,9 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        unordered_map<char,int> mp;
+        unordered_set<char> st;
         for(auto it:s){
-            mp[it]++;
-        }return mp.size();
+            st.insert(it);
+        }return st.size();
     }
 };
