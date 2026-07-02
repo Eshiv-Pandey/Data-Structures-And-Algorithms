@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2942-find-words-containing-character](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2942-find-words-containing-character) |
