@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2942-find-words-containing-character](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3838-weighted-word-mapping) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3794-reverse-string-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3794-reverse-string-prefix) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
