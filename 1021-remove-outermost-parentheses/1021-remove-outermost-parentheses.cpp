@@ -4,17 +4,13 @@ public:
         string ans="";
         int bal=0;
         for(int i=0;i<s.size();i++){
-            if(bal==0 && s[i]=='('){
+            if(s[i]=='('){
+                if(bal!=0) ans.push_back(s[i]);
                 bal++;
-            }else if(s[i]==')' && bal==1){
+            }else {
+                if(bal!=1) ans.push_back(s[i]);
                 bal--;
             }
-            else{
-                if(s[i]=='(') bal++;
-                else bal--;
-                ans.push_back(s[i]);
-            }
-
         }return ans;
     }
 };
