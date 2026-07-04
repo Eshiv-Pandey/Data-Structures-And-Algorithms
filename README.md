@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
