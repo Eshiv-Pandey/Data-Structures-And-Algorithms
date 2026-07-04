@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
