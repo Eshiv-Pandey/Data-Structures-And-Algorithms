@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3794-reverse-string-prefix) |
 ## Counting
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0796-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
