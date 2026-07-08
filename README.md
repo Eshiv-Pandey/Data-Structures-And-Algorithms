@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2942-find-words-containing-character](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2942-find-words-containing-character) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
