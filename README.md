@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0796-rotate-string) |
