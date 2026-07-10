@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
