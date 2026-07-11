@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2942-find-words-containing-character](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3838-weighted-word-mapping) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Stack
@@ -177,8 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
