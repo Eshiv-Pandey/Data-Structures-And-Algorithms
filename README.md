@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
