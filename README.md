@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
