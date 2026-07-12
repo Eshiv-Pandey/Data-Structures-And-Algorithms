@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0260-single-number-iii) |
 | [0704-binary-search](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1720-decode-xored-array) |
