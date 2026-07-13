@@ -1,19 +1,19 @@
 class Solution {
 public:
     int countPrimes(int n) {
+        vector<int> prime(n,1);
+        if(n==0 || n==1) return 0;
         int cnt=0;
-        //precomputation
-        vector<int> ans(n+1,1);
-        for(int i=2;i<n+1;i++){
-            if(ans[i]==1){
-                for(long long j=(long long)i*i;j<n+1;j=j+i){
-                    ans[j]=0;
+        prime[0]=0,prime[1]=0;
+        for(int i=2;(long long)i*i<prime.size();i++){
+            if(prime[i]==1){
+                for(long long j=(long long)i*i;j<prime.size();j=j+i){
+                    prime[j]=0;
                 }
             }
         }
-        for(int i=2;i<ans.size()-1;i++){
-            if(ans[i]==1) cnt++;
-        }
-        return cnt;
+        for(auto it:prime){
+            if(it==1) cnt++;
+        }return cnt;
     }
 };
