@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2000-reverse-prefix-of-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2942-find-words-containing-character](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3110-score-of-a-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
 | ------- |
