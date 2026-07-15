@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
 | ------- |
