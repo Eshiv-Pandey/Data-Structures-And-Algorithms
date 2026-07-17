@@ -2,6 +2,7 @@ class MinStack {
 public:
     stack<long long> st;
     long long mini=INT_MAX;
+    
     MinStack() {
     }
     
@@ -11,8 +12,7 @@ public:
             mini=value;
         }else{
             if(value<mini) {
-                long long newval=value-mini+value;
-                st.push(newval);
+                st.push(2LL*value-mini);
                 mini=value;
             }else st.push(value);
         }
@@ -21,13 +21,13 @@ public:
     void pop() {
         if(st.top()>mini) st.pop();
         else{
-            mini=2*mini-st.top();
+            mini=2LL*mini-st.top();
             st.pop();
         }
     }
     
     int top() {
-        if(st.top()>mini) return st.top();
+        if(st.top()>mini) return int(st.top());
         else return int(mini);
     }
     
