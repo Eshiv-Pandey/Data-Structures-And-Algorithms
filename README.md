@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2000-reverse-prefix-of-word) |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
