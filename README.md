@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0771-jewels-and-stones) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
