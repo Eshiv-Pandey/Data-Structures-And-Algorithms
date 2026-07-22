@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2104-sum-of-subarray-ranges](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2104-sum-of-subarray-ranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2000-reverse-prefix-of-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2104-sum-of-subarray-ranges) |
 ## Trie
 |  |
 | ------- |
@@ -254,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
