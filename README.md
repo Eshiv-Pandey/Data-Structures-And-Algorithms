@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3794-reverse-string-prefix) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 ## Heap (Priority Queue)
 |  |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
