@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1903-largest-odd-number-in-string) |
