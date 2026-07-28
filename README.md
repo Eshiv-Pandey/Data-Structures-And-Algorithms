@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3794-reverse-string-prefix) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2104-sum-of-subarray-ranges) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
