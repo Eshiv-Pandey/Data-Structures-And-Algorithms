@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3794-reverse-string-prefix) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
