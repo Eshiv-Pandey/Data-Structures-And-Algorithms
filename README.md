@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
