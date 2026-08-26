@@ -5,7 +5,7 @@ public:
         int l=0,r=0,maxi=1;
         while(r<fruits.size()){
             mp[fruits[r]]++;
-            while(mp.size()>2){
+            if(mp.size()>2){
                     mp[fruits[l]]--;
                     if(mp[fruits[l]]==0) mp.erase(fruits[l]);
                     l++;
