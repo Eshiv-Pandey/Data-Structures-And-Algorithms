@@ -14,15 +14,14 @@ public:
     vector<int> ans;
     int kthSmallest(TreeNode* root, int k) {
         if(!root) return 0;
-        preorder(root);
-        sort(ans.begin(),ans.end());
+        inorder(root);
         return ans[k-1];
     }
-    void preorder(TreeNode* node){
+    void inorder(TreeNode* node){
         if(!node) return;
+        inorder(node->left);
         ans.push_back(node->val);
-        preorder(node->left);
-        preorder(node->right);
+        inorder(node->right);
         return;
     }
 };
