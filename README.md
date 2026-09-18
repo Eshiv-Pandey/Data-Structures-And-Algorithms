@@ -456,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
