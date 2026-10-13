@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Eshiv-Pandey/Data-Structures-And-Algorithms/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
